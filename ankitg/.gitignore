@@ -1,0 +1,14 @@
+# Build artifacts
+bin/
+obj/
+
+# NuGet
+*.user
+*.suo
+.vs/
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+coverage*/
